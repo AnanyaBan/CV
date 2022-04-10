@@ -1,0 +1,130 @@
+body
+{
+    margin: 0px;
+}
+h1
+{
+    
+    color: grey;
+    font-size: 50px;
+    margin: 10px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+hr
+{
+    border-style:dotted none none none;
+    width: 10%;
+    border-width: 5px;
+    
+    
+    border-color: gray;
+    margin: 0 0 0 45% ;
+    
+}
+.circular
+{
+    border-radius: 90%;
+}
+
+.link:hover
+{
+    color: #65C18C;
+
+}
+.link
+{
+    color: black;
+}
+
+.head
+{
+    background-color: #BFFFF0;
+    max-height: fit-content;
+    margin: 0px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.body-1
+{
+    background-color: #F0FFC2;
+    
+    
+    height: 380px;
+    padding-left: 20%;
+    padding-right: 20%;
+    
+}
+
+.body-2
+{
+    
+    background-color: #FFE4C0;
+    height: 470px;
+    padding-left: 20px;
+    
+}
+
+.end
+{
+    padding-left: 100px;
+    margin-top: 0px;
+    background-color: #FFBBBB;
+    margin-bottom: 0px;
+    padding-bottom: 50px;
+}
+
+.text
+{
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+    
+}
+.text-head
+{
+    font-size: 30px;
+}
+
+
+.edu
+{
+    margin-left: 30px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    
+    border-spacing: 0 15px;
+
+}
+
+.Contact
+{
+    background-color: #BFFFF0;
+    padding-top: 10px;
+}
+
+.Conc
+{
+    padding-left: 500px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.form
+{
+    background-color:#F0FFC2;
+    padding-top: 16px;
+    padding-bottom: 10px;
+}
+
+#rights
+{
+    background-color: black;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 13px;
+}
