@@ -1,0 +1,208 @@
+body
+{
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;;
+}
+h1
+{
+    
+    color: #ffffff;
+    font-size: 50px;
+    margin: 10px;
+    font-family: 'Bad Script', cursive;
+    font-weight: 600;
+    padding-bottom: 1%;
+
+}
+
+hr
+{
+    border-style:dotted none none none;
+    width: 10%;
+    border-width: 5px;
+    
+    
+    border-color: gray;
+    margin: 0 0 0 45% ;
+    
+}
+.circular
+{
+    border-radius: 50%;
+}
+
+
+.link
+{
+    color: rgb(198, 255, 198);
+    text-decoration: none;
+}
+.link:hover
+{
+    color: rgb(166, 250, 166);
+
+}
+.head
+{
+    background-color: #3C6255;
+    max-height: fit-content;
+    margin: 0px;
+    padding:  3% 12% 5% 12%;
+    font-weight: 500;
+    color: white;
+}
+.myname{
+    margin:0;
+}
+.col2{
+padding-left: 2%;
+}
+.head-text{
+    margin: 1% 0%;
+    font-weight: 500;
+    font-size: 18px;
+}
+.aboutme-text{
+    text-align: justify;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.mylinks{
+    text-decoration: none;
+    color: rgb(198, 255, 198);
+}
+.mylinks:hover{
+    color: rgb(166, 250, 166);
+}
+.body-1
+{
+    background-color: #F0FFC2;
+    
+    text-align: center;
+    
+    padding: 0% 5% 5% 5%;
+    
+}
+
+.body-head{
+    padding-top: 5%;
+    margin:0;
+    color: #28443a;
+}
+.hobbiescol{
+    width: 10%;
+}
+.hobby-img:hover{
+    transform: scale(1.05);
+}
+.body-2
+{
+    
+    background-color: #E1F2A2;
+    
+    padding-left: 20px;
+    
+}
+.edu
+{
+    margin:0% 30%;
+    padding-bottom:5%;  
+    border-spacing: 0 15px;
+
+}
+.edu-head{
+    font-weight: 500;
+}
+.edu-text{
+    margin-top: 0%;
+    padding-left: 5%;
+}
+.edulist{
+    list-style-type:circle;
+    font-size: 18px;
+}
+.end
+{
+    
+    margin-top: 0px;
+    background-color: #297373;
+    margin-bottom: 0px;
+    padding-bottom: 5%;
+    color: white;
+}
+.end-head{
+    padding-top: 5%;
+    padding-bottom: 4%;
+    margin:0;
+    color: white;
+}
+.achievetable-head{
+    color:rgb(216, 255, 216);
+    font-size: 40px;
+    font-weight: 500;
+    font-family: 'Bad Script', cursive;
+}
+.achieve-table{
+    margin:0% 10%;
+    font-size: 20px;
+
+    /* for setting the horizontal and vertical cell spacing*/
+    border-spacing: 100px 20px;
+}
+.datecol{
+    text-align: center;
+}
+.text
+{
+    font-size: 20px;
+   
+    
+}
+.text-head
+{
+    font-size: 30px;
+}
+
+
+
+
+.Contact
+{
+    background-color: #BFFFF0;
+    padding-top: 10px;
+}
+
+.Conc
+{
+    padding-left: 500px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.form
+{
+    background-color:#F0FFC2;
+    padding-top: 16px;
+    padding-bottom: 10px;
+}
+
+#rights
+{
+    background-color: rgb(20, 19, 19);
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    font-size: 13px;
+}
+
+.rights-pic
+{
+    padding:2px 1px;
+    width: 30px;
+
+}
+.rights-pic:hover{
+    transform: scale(1.1);
+}
